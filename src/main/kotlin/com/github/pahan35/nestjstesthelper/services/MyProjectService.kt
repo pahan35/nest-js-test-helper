@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.pahan35.nestjstesthelper.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pahan35.nestjstesthelper.MyBundle
 
 class MyProjectService(project: Project) {
 
